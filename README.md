@@ -29,7 +29,7 @@
   ```
 - Akses project melalui browser
   ```
-  http://localhost:300
+  http://localhost:3000
   ```
 
 To learn more about Next.js, take a look at the following resources:
