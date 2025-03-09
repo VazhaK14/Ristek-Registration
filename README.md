@@ -17,9 +17,9 @@
   ```
   cd Ristek-Registration
   ```
-- install npm
+- install npm & nextjs
   ```
-  npm install
+  npm install next@latest react@latest react-dom@latest
   ```
 
 ## 3. Run Project
