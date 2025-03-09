@@ -3,7 +3,8 @@ Download Node.js dari: https://nodejs.org/en
 Verifikasi dengan menjalankan
 node -v
 npm -v
-2. Clone Repository
+
+3. Clone Repository
 Pilih branch develop
 Clone repository dengan
 git clone https://github.com/VazhaK14/Ristek-Registration.git
@@ -11,7 +12,8 @@ masuk ke folder projek
 cd Ristek-Registration
 install npm
 npm install
-3. Run Project
+
+5. Run Project
 Run Project
 npm run dev
 Akses project melalui browser
